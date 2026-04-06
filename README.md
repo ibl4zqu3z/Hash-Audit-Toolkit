@@ -71,7 +71,7 @@ hash-audit-toolkit/
 ### Linux / macOS
 
 ```bash
-git clone https://github.com/TU_USUARIO/hash-audit-toolkit.git
+git clone https://github.com/ibl4zqu3z/hash-audit-toolkit.git
 cd hash-audit-toolkit
 python -m venv .venv
 source .venv/bin/activate
@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ### Windows
 
 ```powershell
-git clone https://github.com/TU_USUARIO/hash-audit-toolkit.git
+git clone https://github.com/ibl4zqu3z/hash-audit-toolkit.git
 cd hash-audit-toolkit
 python -m venv .venv
 .venv\Scripts\activate
